@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "stock-market-predictions"
 version = "0.1.0"
-description = ""
+description = "Project to estimate stock market predictions"
 authors = ["Aditya Mangalampalli <aditya.mangalampalli@gmail.com>"]
 
 [tool.poetry.dependencies]
@@ -11,6 +11,7 @@ pandas = "^1.4.0"
 matplotlib = "^3.5.1"
 numpy = "^1.22.2"
 jupyterlab-code-formatter = "^1.4.10"
+yfinance = "^0.1.70"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
