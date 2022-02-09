@@ -13,6 +13,8 @@ numpy = "^1.22.2"
 jupyterlab-code-formatter = "^1.4.10"
 yfinance = "^0.1.70"
 ipympl = "^0.8.7"
+tqdm = "^4.62.3"
+plotly = "^5.5.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
