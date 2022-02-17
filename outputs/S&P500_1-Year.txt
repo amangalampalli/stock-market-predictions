@@ -1,0 +1,9 @@
+Highest returning month: 2022-01-04 00:00:00
+Number of days where closing price is higher than the opening price: 137
+Number of times the index at the close is lower than the open: 117
+Number of up days: 115
+Number of down days: 138
+Sum of fridays: 189860200000
+Sum of mondays: 166075240000
+Friday sum is greater
+Correlation between the volume and return: -0.026555390362896128

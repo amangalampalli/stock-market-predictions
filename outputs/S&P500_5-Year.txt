@@ -1,0 +1,5 @@
+Highest returning month: 03/04/2020
+Number of days where closing price is higher than the opening price: 690
+Number of times the index at the close is lower than the open: 568
+Number of up days: 551
+Number of down days: 707
