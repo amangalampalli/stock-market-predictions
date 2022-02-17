@@ -1,0 +1,9 @@
+Highest returning month: 2020-03-04 00:00:00
+Number of days where closing price is higher than the opening price: 659
+Number of times the index at the close is lower than the open: 597
+Number of up days: 581
+Number of down days: 675
+Sum of fridays: 32866869300.0
+Sum of mondays: 28764952440.0
+Friday sum is greater
+Correlation between the volume and return: 0.0025330632405952715
