@@ -6,7 +6,7 @@ authors = ["Aditya Mangalampalli <aditya.mangalampalli@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
-darts = "^0.16.1"
+darts = "0.17.1"
 pandas = "^1.4.0"
 matplotlib = "^3.5.1"
 numpy = "^1.22.2"
