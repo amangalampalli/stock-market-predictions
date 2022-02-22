@@ -1,5 +1,5 @@
 import yfinance as yf
 
-data = yf.download('MSFT', '2012-03-01', '2022-02-08')
+data = yf.download('WFC', '2012-03-01', '2022-02-08')
 
-data.to_csv('data/MSFT/MSFT.csv')
+data.to_csv('data/WFC/WFC.csv')
