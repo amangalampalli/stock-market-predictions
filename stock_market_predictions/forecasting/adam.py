@@ -1,7 +1,7 @@
 import tensorflow as tf
 
 tf.config.run_functions_eagerly(True)
-class CustomAdam(tf.keras.optimizers.Optimizer):
+class Adam(tf.keras.optimizers.Optimizer):
   def __init__(self, learning_rate=0.001,beta1 = 0.9, beta2 = 0.999, epsilon = 1e-8, name="CustomAdam", **kwargs):
     super().__init__(name, **kwargs)
     self._set_hyper("learning_rate", kwargs.get("lr", learning_rate)) # handle lr=learning_rate
