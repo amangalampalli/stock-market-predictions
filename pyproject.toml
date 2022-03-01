@@ -6,7 +6,6 @@ authors = ["Aditya Mangalampalli <aditya.mangalampalli@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = ">=3.10,<3.11"
-darts = "0.17.1"
 pandas = "^1.4.0"
 matplotlib = "^3.5.1"
 numpy = "^1.22.2"
@@ -16,13 +15,10 @@ ipympl = "^0.8.7"
 tqdm = "^4.62.3"
 plotly = "^5.5.0"
 openpyxl = "^3.0.9"
-pytorch-lightning = "^1.5.10"
-pmdarima = "^1.8.5"
-statsmodels = "^0.13.2"
-wandb = "^0.12.10"
-tensorflow-addons = "^0.16.1"
 tensorflow-macos = "^2.8.0"
 tensorflow-metal = "^0.4.0"
+tensorflow = "^2.8.0"
+scikit-learn = "^1.0.2"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
